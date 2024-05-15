@@ -1,0 +1,7 @@
+boto3
+streamlit
+langchain
+langchain-openai
+google-generativeai
+azure-cognitiveservices-speech
+azure-ai-translation-text
